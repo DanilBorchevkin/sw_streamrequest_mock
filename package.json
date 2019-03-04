@@ -1,0 +1,15 @@
+{
+  "name": "sw_mock_upgrare",
+  "version": "1.0.0",
+  "description": "Mock for upgrade",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danil Borchevkin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
